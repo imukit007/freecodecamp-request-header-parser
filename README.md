@@ -17,3 +17,9 @@ This repository is for the freecodecamp api project called "Request Header Parse
     "software": "Windows NT 10.0; Win64; x64"
 }
 ```
+
+### Live Preview
+
+```
+https://freecodecamp-request-header-parser-imukit007.c9users.io/api/whoami/
+```
