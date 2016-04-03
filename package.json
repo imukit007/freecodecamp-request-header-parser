@@ -1,0 +1,26 @@
+{
+  "name": "freecodecamp-request-header-parser",
+  "version": "1.0.0",
+  "description": "This repository is for the freecodecamp api project called \"Request Header Parser Microservice\".",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imukit007/freecodecamp-request-header-parser.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "request-header-parser"
+  ],
+  "author": "M MUKIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imukit007/freecodecamp-request-header-parser/issues"
+  },
+  "homepage": "https://github.com/imukit007/freecodecamp-request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
